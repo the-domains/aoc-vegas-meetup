@@ -1,0 +1,28 @@
+name: AOC Vegas Meetup
+favicon: null
+layout_spectrum: 0.0919453117530793
+typography_spectrum: 0.010729085886850953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.038815571228042245
+  lightness: 0.05206232029013336
+  saturation: 0.07898028381168842
+  rhythmicContrast: 0.206779278581962
+purpose: []
